@@ -1,6 +1,6 @@
 ### 1. Which of these are design elements? Select all that apply. 
 
-- [x]Negative space
+- [x] Negative space
 - [ ] width
 - [x] Lines
 - [x] Depth
