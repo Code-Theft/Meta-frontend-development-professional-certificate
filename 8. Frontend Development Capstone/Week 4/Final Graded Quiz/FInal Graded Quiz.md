@@ -62,7 +62,7 @@
 - [x] `useReducer`
 
 ### 11. What is wrong with the following React code?
-`import React from 'react';
+```import React from 'react';
 
 function MyList() {
   const list = ['item1', 'item2', 'item3'];
@@ -74,7 +74,7 @@ function MyList() {
     </ul>
   );
 }
-`
+```
 
 - [ ] There is nothing wrong with this code.
 - [ ] The list is not being sorted correctly
@@ -83,9 +83,9 @@ function MyList() {
 
 ### 12. Which of the following options will create a 4-column grid using CSS grid?
 
-- [x]  `display: grid;
+- [x]  ``display: grid;
         grid-template-columns: repeat(4,200px);
-        `
+        ``
 
 ### 3. Which Git command is used to upload the latest changes to a remote repository?
 
