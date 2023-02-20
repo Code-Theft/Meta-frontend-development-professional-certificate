@@ -11,6 +11,19 @@
 - [ ] The assignment operator.
 - [ ] The name of an argument you want to pass to the function.
 
+### 3. True or false: When creating a new branch using the git branch command, that branch is only available to other developers once the branch is pushed to the remote repository.
+
+- [x] True
+- [ ] False
+
+### 4. Which of the following are rules from Shneiderman’s 8 Golden Rules of UI Design? Select all that apply. 
+
+- [x] Strive for consistency
+- [x] Offer informative feedback 
+- [x] Offer simple error handling
+- [ ] Help and documentation
+
+### 5.  
 ### 3. Which Git command is used to upload the latest changes to a remote repository?
 
 - [ ] `git clone`.
