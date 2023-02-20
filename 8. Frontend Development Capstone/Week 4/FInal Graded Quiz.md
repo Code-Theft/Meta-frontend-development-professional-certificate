@@ -83,65 +83,54 @@ function MyList() {
 
 ### 12. Which of the following options will create a 4-column grid using CSS grid?
 
-- [x]  ``display: grid;
-        grid-template-columns: repeat(4,200px);
-        ``
-
-### 3. Which Git command is used to upload the latest changes to a remote repository?
+- [x] `display: grid;grid-template-columns: repeat(4,200px);`
+- [ ] `display: flex;grid-template-columns: repeat(4,200px);`
+- [ ] `display: inline-block;grid-template-columns: repeat(4,200px);`
+- [ ] `display: block;grid-template-columns: repeat(4,200px);`
+       
+### 13. Which Git command is used to upload the latest changes to a remote repository?
 
 - [ ] `git clone`.
 - [ ] `git pull`.
 - [ ] `git commit`.
 - [x] `git push`.
 
-### 4. Which of these options are considered best practices for form design?
+### 14. Which of these options are considered best practices for form design?
 
 - [x] Make use of inline form field validation.
 - [x] Use one column.
 - [ ] Always request a contact phone number.
 - [ ] Align text to the center.
 
-### 5. When designing a website using CSS grid, what code can you use to design three columns where the second column uses twice the space as the other two?
+### 15. When designing a website using CSS grid, what code can you use to design three columns where the second column uses twice the space as the other two?
 
 - [x] `grid-template-columns: 1fr 2fr 1fr;`.
 - [ ] `grid-auto-columns: auto;`.
 - [ ] `grid-template-rows: 1fr 2fr 1fr;`.
 - [ ] `grid-column-gap: 2fr;`.
 
-### 6. What is the very first step when creating a wireframe in Figma?
-
-- [ ] Create a grid.
-- [ ] Create a frame.
-- [x] Gather requirements.
-
-### 7. What does the `git clone` command do?
+### 16. What does the `git clone` command do?
 
 - [ ] It creates a new git repository.
 - [x] It creates a local copy of a remote repository.
 - [ ] It fetches the changes from the remote repository.
 
-### 8. Open graph tags are required to create a valid HTML document.
+### 17. Open graph tags are required to create a valid HTML document.
 
 - [ ] True.
 - [x] False.
 
-### 9. In React, which direction does data flow between parent and child components?
+### 18. In React, which direction does data flow between parent and child components?
 
 - [x] One-way.
 - [ ] Two-way.
 
-### 10. Which of the following hooks can be used to track state in a React app?
-
-- [ ] `useEffect`.
-- [x] `useReducer`.
-- [x] `useState`.
-
-### 11. It is essential to provide a unique key for each list item when rendering a list in React.
+### 19. It is essential to provide a unique key for each list item when rendering a list in React.
 
 - [x] True.
 - [ ] False.
 
-### 12. Which of the following statements about CSS grids are true?
+### 20. Which of the following statements about CSS grids are true?
 
 - [x] CSS grids are created using the display property with a value of grid.
 - [x] CSS grids can be used to create flexible layouts.
