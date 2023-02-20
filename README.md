@@ -2,7 +2,7 @@
 
 A walkthrough of Meta Frontend Development Professional certificate by Coursera.
 
-##Courses
+## Courses
 
 - Introduction to Frontend Development
 - Programming with JavaScript
