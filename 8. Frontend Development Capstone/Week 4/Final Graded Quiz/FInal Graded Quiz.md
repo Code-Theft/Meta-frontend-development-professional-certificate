@@ -23,7 +23,70 @@
 - [x] Offer simple error handling
 - [ ] Help and documentation
 
-### 5.  
+### 5. What is the purpose of Semantic HTML?
+
+- [ ] Semantic HTML is used to describe information about the webpage.
+- [ ] Semantic HTML creates a generic container-like structure to group related content together. 
+- [x] Semantic HTML is a way to describe the meaning of your web page through specific tags.
+
+### 6. What is the very first step when creating a wireframe in Figma?
+
+- [ ] Create a Grid
+- [x] Gather requirements
+- [ ] Create a Frame
+
+### 7. Which command is used to create a local copy of a remote Git repository? 
+
+- [x] `git clone`.
+- [ ] `git pull`.
+- [ ] `git commit`.
+- [ ] `git push`.
+
+### 8. What is the purpose of the `og:type` Open Graph tag?
+
+- [ ] To specify the layout of the page
+- [ ] To specify the color scheme of the page
+- [ ] To specify the language of the page
+- [x] Tp specify the type of the page; such as website, article or video.
+
+### 9. React has at least one component known as the __________ component.
+
+- [ ] Top
+- [x] Root
+- [ ] Origin
+
+### 10. Which of the following hooks can be used to track state in a React app?
+
+- [ ] `useEffect`
+- [x] `useState`
+- [x] `useReducer`
+
+### 11. What is wrong with the following React code?
+`import React from 'react';
+
+function MyList() {
+  const list = ['item1', 'item2', 'item3'];
+  return (
+    <ul>
+    {list.map((item) => (
+      <li>{item}</li>
+    ))}
+    </ul>
+  );
+}
+`
+
+- [ ] There is nothing wrong with this code.
+- [ ] The list is not being sorted correctly
+- [x] The list elements do not have unique keys
+- [ ] The list elements is not styled correctly.
+
+### 12. Which of the following options will create a 4-column grid using CSS grid?
+
+- [x]  `display: grid;
+        grid-template-columns: repeat(4,200px);
+        `
+
 ### 3. Which Git command is used to upload the latest changes to a remote repository?
 
 - [ ] `git clone`.
